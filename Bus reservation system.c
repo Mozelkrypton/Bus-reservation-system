@@ -24,7 +24,7 @@ int main()
 	printf("\t\t welcome to online booking krypton shuttle \n");
 	printf("\t\tP.O Box 34-2700.\n");
 	printf("\t\tNairobi.\n");
-	printf("\t\tYou plan your future we take you there in time.\n");
+	printf("\t\tYou plan your future we take you there in time at a lower price.\n");
 	getch();
 	system("cls");
 	int menu_choice,choice_return;
