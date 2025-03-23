@@ -20,7 +20,7 @@ int main() {
     system("cls");
     printf("\t\t-------------------KRYPTON SHUTTLE---------------------------\n");
     printf("\t\t-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-\n");
-    printf("\t\t Welcome to online booking krypton shuttle \n");
+    printf("\t\t Welcome to online booking Krypton shuttle \n");
     printf("\t\t P.O Box 34-2700.\n");
     printf("\t\t Nairobi.\n");
     printf("\t\t You plan your future, we take you there in time at a lower price.\n");
