@@ -59,7 +59,7 @@ int main() {
     return 0;
 }
 
-// Function to view bus details
+// Function to view the bus details
 void viewdetails(void) {
     system("cls");
     printf("\nBus Number\tBus Name\tDestinations\t\tBus Fare\tTime\n");
